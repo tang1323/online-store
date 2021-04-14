@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ecbba2ba-a482-4bf0-ae1e-af7560f9dc44" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1mJUDHo4j6pEDPgsM6aeKttPYSG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MxShop" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="ts.external.directory.path" value="D:\PyCharm 2019.3.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RunManager">
+    <configuration name="api.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/online-store/src/api/api.js" working-dir="$PROJECT_DIR$/online-store/src/api">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.api.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ecbba2ba-a482-4bf0-ae1e-af7560f9dc44" name="Default Changelist" comment="" />
+      <created>1609211065223</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609211065223</updated>
+      <workItem from="1609211068996" duration="33000" />
+      <workItem from="1610358219148" duration="159000" />
+      <workItem from="1610358386788" duration="9056000" />
+      <workItem from="1610430632389" duration="10000" />
+      <workItem from="1610699640885" duration="1202000" />
+      <workItem from="1610705537274" duration="7000" />
+      <workItem from="1610766451550" duration="1311000" />
+      <workItem from="1610887272540" duration="888000" />
+      <workItem from="1610981255309" duration="1754000" />
+      <workItem from="1611020696288" duration="613000" />
+      <workItem from="1615623498769" duration="1555000" />
+      <workItem from="1615717230063" duration="2313000" />
+      <workItem from="1615773972114" duration="1217000" />
+      <workItem from="1615861638426" duration="6745000" />
+      <workItem from="1615948337211" duration="3612000" />
+      <workItem from="1616032951931" duration="601000" />
+      <workItem from="1616039214943" duration="5708000" />
+      <workItem from="1616198851805" duration="747000" />
+      <workItem from="1616287750244" duration="6816000" />
+      <workItem from="1616377234675" duration="4923000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="459" y="254" key="FileChooserDialogImpl" timestamp="1616377251147">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state x="459" y="254" key="FileChooserDialogImpl/0.31.1440.929@0.31.1440.929" timestamp="1616377251147" />
+    <state width="1210" height="188" key="GridCell.Tab.0.bottom" timestamp="1610374410244">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1210" height="188" key="GridCell.Tab.0.bottom/0.31.1440.929@0.31.1440.929" timestamp="1610374410244" />
+    <state width="1210" height="188" key="GridCell.Tab.0.center" timestamp="1610374410243">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1210" height="188" key="GridCell.Tab.0.center/0.31.1440.929@0.31.1440.929" timestamp="1610374410243" />
+    <state width="1210" height="188" key="GridCell.Tab.0.left" timestamp="1610374410243">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1210" height="188" key="GridCell.Tab.0.left/0.31.1440.929@0.31.1440.929" timestamp="1610374410243" />
+    <state width="1210" height="188" key="GridCell.Tab.0.right" timestamp="1610374410244">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1210" height="188" key="GridCell.Tab.0.right/0.31.1440.929@0.31.1440.929" timestamp="1610374410244" />
+    <state x="413" y="426" width="638" height="534" key="find.popup" timestamp="1616054024526">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state x="413" y="426" width="638" height="534" key="find.popup/0.31.1440.929@0.31.1440.929" timestamp="1616054024526" />
+    <state x="382" y="281" width="672" height="678" key="search.everywhere.popup" timestamp="1615873126441">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state x="382" y="281" width="672" height="678" key="search.everywhere.popup/0.31.1440.929@0.31.1440.929" timestamp="1615873126441" />
+  </component>
+</project>
